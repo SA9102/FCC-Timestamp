@@ -1,0 +1,22 @@
+{
+  "name": "fcc-timestamp",
+  "version": "0.0.1",
+  "description": "An FCC Backend Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "devStart": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.12.4"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "freeCodeCamp"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
